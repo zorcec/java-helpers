@@ -7,7 +7,7 @@ import java.io.FileInputStream;
 import java.io.InputStream;
 import java.io.IOException;
 
-import main.java.helpers.logging.*;
+import main.java.helpers.logging.Logger;
 
 public class PropertiesReader {
 
